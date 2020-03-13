@@ -1,0 +1,18 @@
+sfml-graphics-s.lib
+sfml-window-s.lib
+sfml-system-s.lib
+opengl32.lib
+freetype.lib
+winmm.lib
+gdi32.lib
+
+sfml-graphics-s-d.lib
+sfml-window-s-d.lib
+sfml-system-s-d.lib
+opengl32.lib
+freetype.lib
+winmm.lib
+gdi32.lib
+
+IMPORTANT: if you want to use the programs without console (/SUBSYTEM:WINDOWS), you need to include this in Input.
+sfml-main.lib 

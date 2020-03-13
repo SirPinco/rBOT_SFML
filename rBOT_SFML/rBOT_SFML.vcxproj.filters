@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Fonts">
+      <UniqueIdentifier>{f6f6e958-7dfb-4047-b253-0393e8c58ff7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Textbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Label.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ErrorProvider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Header.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AestethicShape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Astar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PCH.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Textbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Label.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ErrorProvider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AestethicShape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Astar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PCH.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Resources\century-gothic.ttf">
+      <Filter>Resource Files\Fonts</Filter>
+    </Font>
+    <Font Include="Resources\Pixel Tandy.otf">
+      <Filter>Resource Files\Fonts</Filter>
+    </Font>
+    <Font Include="Resources\Pixel ModeX.otf">
+      <Filter>Resource Files\Fonts</Filter>
+    </Font>
+    <Font Include="Resources\Pixel Gosub.otf">
+      <Filter>Resource Files\Fonts</Filter>
+    </Font>
+    <Font Include="Resources\Pixel Coleco.otf">
+      <Filter>Resource Files\Fonts</Filter>
+    </Font>
+    <Font Include="Resources\Pixel NES.otf">
+      <Filter>Resource Files\Fonts</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\place_holder.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Resources\window-icon.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Resources\DUMP.cpp">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="testing_file.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Results.log">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Notes.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
